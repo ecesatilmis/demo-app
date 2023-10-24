@@ -1,0 +1,15 @@
+proto/greet/GreetServiceGrpc$GreetServiceFutureStub.class
+com/example/kuartis/repository/GreetingRepository.class
+proto/greet/GreetServiceGrpc$GreetServiceBaseDescriptorSupplier.class
+proto/greet/GreetServiceGrpc$1.class
+proto/greet/GreetServiceGrpc$3.class
+proto/greet/GreetServiceGrpc$GreetServiceMethodDescriptorSupplier.class
+proto/greet/GreetServiceGrpc$GreetServiceFileDescriptorSupplier.class
+proto/greet/GreetServiceGrpc$2.class
+proto/greet/GreetServiceGrpc$GreetServiceStub.class
+com/example/kuartis/KuartisApplication.class
+proto/greet/GreetServiceGrpc$GreetServiceImplBase.class
+com/example/kuartis/model/GreetingEntity.class
+proto/greet/GreetServiceGrpc$MethodHandlers.class
+proto/greet/GreetServiceGrpc.class
+proto/greet/GreetServiceGrpc$GreetServiceBlockingStub.class
